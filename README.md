@@ -1,1 +1,2 @@
-# note
+# Initial page
+
