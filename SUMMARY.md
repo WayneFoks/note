@@ -9,4 +9,5 @@
 * [Android四大组件划重点](android-4-component.md)
 * [Android绘制流程](android-draw-sequence.md)
 * [Android硬件加速](android-hardware-acceleration.md)
+* [GC机制](gc.md)
 
