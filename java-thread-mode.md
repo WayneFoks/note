@@ -140,7 +140,7 @@ sleep只释放cpu资源，不改变锁状态；wait释放了锁，notify后继�
 * 阻塞（Bolocked）：线程能够运行，但有个条件阻止它的运行。当线程处于阻塞状态时，调度器将会忽略线程，不会分配给线程任何CPU时间（例如sleep）。只有重新进入了就绪状态，才有可能执行操作。
 * 死亡（Dead）：处于死亡状态的线程讲不再是可调度的，并且再也不会得到CPU时间。任务死亡的通常方式是从run\(\)方法返回。
 
-  ![https://blog.csdn.net/a58220655/article/details/76695142](.gitbook/assets/image%20%282%29.png)
+  ![https://blog.csdn.net/a58220655/article/details/76695142](.gitbook/assets/image%20%283%29.png)
 
 ## 线程模式
 
