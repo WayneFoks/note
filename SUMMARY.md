@@ -13,4 +13,5 @@
 * [Android Open Source](android-open-source.md)
 * [MVC, MVP and MVVM](mvc-mvp-and-mvvm.md)
 * [网络协议](net-model.md)
+* [Common Conception](common-conception.md)
 
