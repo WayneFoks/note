@@ -36,7 +36,7 @@
 
 ### 参考文献
 
-{% embed data="{\"url\":\"https://developer.android.com/guide/components/services?hl=zh-cn\",\"type\":\"link\",\"title\":\"服务  \|  Android Developers\",\"description\":\"A Service is an application component that can perform long-running operations in the background and does not provide a user interface. Another application component can start a service and it will continue to run in the background even if the user switches…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.android.com/\_static/6d893b1b39/images/android/touchicon-180.png?hl=zh-cn\",\"aspectRatio\":0}}" %}
+{% embed url="https://developer.android.com/guide/components/services?hl=zh-cn" %}
 
 ## Broadcasts
 
@@ -77,7 +77,7 @@ public class MyBroadcastReceiver extends BroadcastReceiver {
 
 ### 参考文献
 
-{% embed data="{\"url\":\"https://developer.android.com/guide/components/broadcasts?hl=zh-cn\",\"type\":\"link\",\"title\":\"Broadcasts overview  \|  Android Developers\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.android.com/\_static/6d893b1b39/images/android/touchicon-180.png?hl=zh-cn\",\"aspectRatio\":0}}" %}
+{% embed url="https://developer.android.com/guide/components/broadcasts?hl=zh-cn" %}
 
 
 
